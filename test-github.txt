@@ -1,3 +1,5 @@
 file yang akan diupload:
 1.aplikasis belanja online
 2.memperbarui program yang sudah dikerjakan
+3.membuat program baru lainnya 
+4.belajar javascript dan nodeJS
